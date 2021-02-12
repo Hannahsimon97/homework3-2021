@@ -8,15 +8,15 @@ brackets or add additional rules
 	grid-column: 3/4;
 }
 
-.item3, .item_b {
+.item3, .item_d {
 	grid-column: 2/3;
 }
 
-.item1, .item4, item_c {
+.item1, .item4, .item_c {
 	grid-column: 1/2;
 }
 
-.item_e, .item_d {
+.item_e, .item_b {
 	grid-column: 3/4;
 }
 
